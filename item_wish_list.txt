@@ -1,0 +1,211 @@
+title: 命运2愿望清单 from GENEVE
+description: 小范围自制使用的wish list
+
+
+// Supercluster - 超星系团 ()
+//notes: 独头喷，输出用，但是不常用
+dimwishlist:item=92459755&perks=1840239774,1087426260,3442762221,781192741
+
+
+// Zaouli's Bane - 清怪 ()
+//notes: 火赛季会更好使
+dimwishlist:item=431721920&perks=64866129,2675184851
+
+
+// Edge Transit - 原神启动 ()
+//notes: 嫉妒刺客+诱导推销就是可用的了
+dimwishlist:item=568611923&perks=968510818,3078487919
+
+
+// Edge Transit - 原神启动 ()
+//notes: 嫉妒刺客+诱导推销就是可用的了
+dimwishlist:item=568611923&perks=424370782,3744057135
+
+
+// Edge Transit - 原神启动 ()
+//notes: 嫉妒刺客叠完弹药，切级联点输出
+dimwishlist:item=568611923&perks=968510818,3078487919
+dimwishlist:item=568611923&perks=3751912585,3078487919
+
+
+// Edge Transit - 原神启动 ()
+//notes: 嫉妒刺客叠完弹药，切级联点输出
+dimwishlist:item=568611923&perks=424370782,3744057135
+dimwishlist:item=568611923&perks=331667533,3744057135
+
+
+// Cold Comfort - base ()
+//notes: 至少得有这俩
+dimwishlist:item=839786290&perks=968510818,3078487919
+
+
+// Cold Comfort - GR ()
+//notes: 大师弹头速度
+dimwishlist:item=839786290&perks=3525010810,3796465595,968510818,3078487919
+
+
+// Cataphract GL3 (Adept) - 无需多言 ()
+dimwishlist:item=874623537&perks=968510818,3078487919
+
+
+// Briar's Contempt ()
+dimwishlist:item=1491665733&perks=424370782,781192741
+
+
+// Scintillation (Adept) - 大爆 ()
+dimwishlist:item=1492522228&perks=968510818,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1799762209,3708227201,3988215619
+
+
+// Scintillation (Adept) - 回转爆射 ()
+dimwishlist:item=1492522228&perks=3418782618,3708227201,3988215619
+
+
+// Scintillation (Adept) - 火线 ()
+//notes: 触发好火线
+dimwishlist:item=1492522228&perks=3418782618,1771339417,3988215619
+
+
+// Doomed Petitioner ()
+dimwishlist:item=1501688142&perks=461595545,332733060
+
+
+// Doomed Petitioner ()
+dimwishlist:item=1501688142&perks=424370782,781192741
+
+
+// Vulpecula - 边打边劫 ()
+//notes: 高爆触发边打边劫，等老九卖
+dimwishlist:item=1622998472&perks=3700496672,3038247973
+
+
+// Wastelander M5 - 雪上打拳 ()
+//notes: 雪上打拳
+dimwishlist:item=1679868061&perks=3442762221,788178929
+
+
+// Crux Termination IV - 三perk切(after) (god-pve)
+//notes: 双脚架卡好备弹再切爆炸光能进输出 tags:god-pve
+dimwishlist:item=1719687748&perks=3563868667,2275087323
+dimwishlist:item=1719687748&perks=3563868667,2282937672
+
+
+// Crux Termination IV - 三perk切(before) (pve)
+//notes: 双脚架卡好备弹再切爆炸光能进输出 tags:pve
+dimwishlist:item=1719687748&perks=2284787283,1439600632
+dimwishlist:item=1719687748&perks=2284787283,3194351027
+
+
+// Royal Executioner - 皇家行刑者 ()
+//notes: 锻造枪，嫉妒刺客叠好子弹，吃洪涝增伤，是没有笛卡尔的时候的可选项
+dimwishlist:item=1720503118&perks=839105230,1687452232,424370782,254337357
+
+
+// Apex Predator - 锻造 (pve)
+//notes: 重建是打完手动填一发，刚好重建一发 tags:pve
+dimwishlist:item=1851777734&perks=3525010810,3796465595,461595545,3744057135
+
+
+// Warden's Law - 旧的 ()
+dimwishlist:item=2152484073&perks=1354429876,1546637391
+
+
+// Warden's Law - 新的 ()
+dimwishlist:item=2152484073&perks=1087426260,3828510309,1546637391
+
+
+// Cartesian Coordinate - 金中斩首 ()
+//notes: 补输出用，等老九卖
+dimwishlist:item=2481881293&perks=1556840489,1546637391
+
+
+// Scatter Signal - 散射信号 ()
+//notes: 锻造1号位缚丝融合
+dimwishlist:item=2558925366&perks=4090651448,689005463,2682205016,2037312142,3978094547
+
+
+// Scintillation ()
+dimwishlist:item=2591257541&perks=3418782618,3078487919,3988215619
+
+
+// Scintillation ()
+dimwishlist:item=2591257541&perks=3418782618,3708227201,3988215619
+
+
+// Scintillation ()
+dimwishlist:item=2591257541&perks=3418782618,1771339417,3988215619
+
+
+// Riptide - 冰冷弹匣 ()
+//notes: 自填最好，打控制
+dimwishlist:item=2715240478&perks=3300816228,2978966579
+
+
+// Riptide - 金中 冰冷弹匣 ()
+//notes: 金中也可以，弹药经济好些
+dimwishlist:item=2715240478&perks=1556840489,2978966579
+
+
+// Cataphract GL3 - 无需多言 ()
+dimwishlist:item=2738601016&perks=968510818,3078487919
+
+
+// The Supremacy ()
+dimwishlist:item=2884596447&perks=1467527085,1087426260,3418782618,848860060
+
+
+// The Supremacy ()
+dimwishlist:item=2884596447&perks=839105230,2420895100,1563455254,3744057135
+
+
+// The Supremacy ()
+dimwishlist:item=2884596447&perks=1563455254,1549370717
+
+
+// Retrofit Escapade - 改型冒险——锻造唯一解 (pve,god-pve)
+//notes: tags:pve,god-pve
+dimwishlist:item=3103325054&perks=4090651448,1087426260,848860060,2939589096
+
+
+// Warden's Law (Adept) - 旧的 ()
+//notes: 事不过四
+dimwishlist:item=3250744600&perks=1354429876,1546637391
+
+
+// Warden's Law (Adept) - 新的 ()
+//notes: 模组插大师备弹
+dimwishlist:item=3250744600&perks=1087426260,3828510309,1546637391
+
+
+// Succession ()
+dimwishlist:item=3612338554&perks=1523832109,1546637391
+
+
+// Stormchaser ()
+dimwishlist:item=3652506829&perks=2284787283,1771339417
+
+
+// Pardon Our Dust - 致盲 ()
+//notes: 自填致盲，其他影响不大
+dimwishlist:item=3849810018&perks=3032599245,3300816228
+
+
+// Pardon Our Dust - 自填斩首 ()
+//notes: 输出需要尖刺榴弹
+dimwishlist:item=3849810018&perks=3301904089,3300816228,1546637391
+
+
+// The Hothead - 抱着嗯射 ()
+//notes: 记得蹲下
+dimwishlist:item=4255171531&perks=2869569095,2284787283
+
+
+// Empty Vessel - 致盲 ()
+//notes: 自填致盲
+dimwishlist:item=4255586669&perks=3032599245,3300816228
+
+
+// Empty Vessel - 自填输出 ()
+//notes: 尖刺自填斩首输出
+dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391
+
